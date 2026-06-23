@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi, I'm Arrafi 👋
+
+17 · Student by day, developer by night.
+Passionate about web development and hungry to level up.
+
+## 📬 Contact Me
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281249713524)
 
 <!--
 **aureliooonn/aureliooonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
